@@ -1,16 +1,104 @@
-# React + Vite
+# 🏥 Medical Alert UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Medical Alert Web Application UI** built using **React.js + Tailwind CSS**.
+Designed for emergency healthcare services to provide quick access and monitoring features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+👉 https://medicalwebtemp.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ⚡ Clean & Modern UI Design
+* 📱 Fully Responsive (Mobile + Tablet + Desktop)
+* 🚑 Emergency Call Button
+* 📊 Pricing Plans Section
+* ❓ FAQ Section with Toggle
+* 📞 Contact / Get Started Modal Form
+* 🎯 Smooth User Experience
+
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Hero Section
+
+![Hero](./src/assets/hero.png)
+
+### 🔹 Features & Benefits
+
+* 24/7 Support
+* Fall Detection
+* GPS Tracking
+* Waterproof
+* Easy to Use
+* Instant Alerts
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* Tailwind CSS
+* JavaScript (ES6+)
+* Vite
+
+---
+
+## 📂 Project Structure
+
+```
+medical-alert-ui/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+│── package.json
+│── vite.config.js
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/pradeep-y/MEDICAL_WEB_TEMP.git
+cd MEDICAL_WEB_TEMP
+npm install
+npm run dev
+```
+
+---
+
+## 📌 Future Improvements
+
+* 🔐 Authentication System
+* 🌐 Backend Integration
+* 📡 Real-time Emergency Alerts
+* 🧠 AI-based Health Monitoring
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+---
+
+## 👨‍💻 Author
+
+**Pradeep Yadav**
+🔗 GitHub: https://github.com/pradeep-y
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
